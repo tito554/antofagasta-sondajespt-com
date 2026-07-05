@@ -1,0 +1,43 @@
+# Sondajespt — Antofagasta
+
+> Geotechnical engineering services in Antofagasta, Chile.
+
+## Services
+- [Aislacion Sismica](https://antofagasta.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://antofagasta.sondajespt.com/anclajes/)
+- [Cbr Vial](https://antofagasta.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://antofagasta.sondajespt.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://antofagasta.sondajespt.com/cimentaciones-superficiales/)
+- [Columnas Grava](https://antofagasta.sondajespt.com/columnas-grava/)
+- [Ensayo Cpt](https://antofagasta.sondajespt.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://antofagasta.sondajespt.com/ensayo-triaxial/)
+- [Excavaciones Subterraneo](https://antofagasta.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://antofagasta.sondajespt.com/exploracion/)
+- [Geofisica](https://antofagasta.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://antofagasta.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://antofagasta.sondajespt.com/granulometria/)
+- [Laboratorio In Situ](https://antofagasta.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://antofagasta.sondajespt.com/laboratorio-lab/)
+- [Losa De Cimentacion](https://antofagasta.sondajespt.com/losa-de-cimentacion/)
+- [Masw Vs30](https://antofagasta.sondajespt.com/masw-vs30/)
+- [Mejoramiento](https://antofagasta.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://antofagasta.sondajespt.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://antofagasta.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://antofagasta.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://antofagasta.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://antofagasta.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://antofagasta.sondajespt.com/permeabilidad-campo/)
+- [Pilotes](https://antofagasta.sondajespt.com/pilotes/)
+- [Resistividad Electrica Sev](https://antofagasta.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://antofagasta.sondajespt.com/sismica/)
+- [Taludes](https://antofagasta.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://antofagasta.sondajespt.com/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://antofagasta.sondajespt.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://antofagasta.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://antofagasta.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Antofagasta, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
